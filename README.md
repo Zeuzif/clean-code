@@ -1,6 +1,6 @@
 ### clean-code
 
-### design patter visitor
+### design pattern visitor
 
 What problems can the Visitor design pattern solve?
 It should be possible to define a new operation for (some) classes of an object structure without changing the classes.
